@@ -85,7 +85,32 @@ h1, h2, h3, h4, h5, h6 {
     cursor: pointer;
 }
 
+.github-logo1 {
+    font-size: 1em;
+    font-weight: 800;
+    padding: 0px;
+    margin: 0px;
+}
 
+#copyright .lookbook {
+    opacity: 1.0;
+}
+
+#copyright a {
+    color: #616161;
+}
+
+#copyright a:hover {
+    color: #356492;
+}
+
+#copyright .fa-heart {
+    padding: 0px;
+    margin: 0px;
+    font-size: 1em;
+    font-weight: normal;
+    bottom: auto;
+}
 
 
 /* 
