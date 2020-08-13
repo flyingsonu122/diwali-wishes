@@ -2,4 +2,4 @@
 
 Random Diwali Wishes 
 
-Click [Here](https://flyingsonu122.github.io/Diwali-Wishes/) to see live Demo
+ Live Demo on [https://flyingsonu122.github.io/Diwali-Wishes/](https://flyingsonu122.github.io/Diwali-Wishes/) 
