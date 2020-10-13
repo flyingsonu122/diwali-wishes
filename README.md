@@ -4,6 +4,8 @@
 
 ### Live Demo on [https://flyingsonu122.github.io/Diwali-Wishes/](https://flyingsonu122.github.io/Diwali-Wishes/) 
 
+![Diwali Wishes](./images/DiwaliWishes.jpg)
+
 ## Want to contribute?
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122/Diwali-Wishes/pulls)
