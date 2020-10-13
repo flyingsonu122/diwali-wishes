@@ -1,5 +1,7 @@
 # Diwali-Wishes
 
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/Diwali-Wishes.svg?logo=github&style=social)](https://github.com/flyingsonu122)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/Diwali-Wishes.svg?logo=git&style=social)](https://github.com/flyingsonu122/Diwali-Wishes)  [![Maintenance](https://img.shields.io/maintenance/yes/2020.svg?logo=github&style=social)](https://github.com/flyingsonu122/Diwali-Wishes)
+
 ### Live Demo on [https://flyingsonu122.github.io/Diwali-Wishes/](https://flyingsonu122.github.io/Diwali-Wishes/) 
 
 
