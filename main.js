@@ -2,14 +2,12 @@
 const Wish = document.getElementById('demo');
 const btn = document.getElementById('btn');
 
-
-
 btn.addEventListener('click',getWish);
 
 getWish();
 
 function getWish(){
-    fetch("https://flyingsonu122.github.io/Diwali-Wishes/db.json")
+    fetch("https://www.sonu.live/Diwali-Wishes/db.json")
   .then(function(response) {
     return response.json();
   })
@@ -21,7 +19,3 @@ function getWish(){
     
   });
 }
-
-
-
-
