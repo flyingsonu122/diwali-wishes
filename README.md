@@ -12,7 +12,7 @@
 
 > Please check issues **[here](https://github.com/flyingsonu122/JSON/issues)**!
 
-**[ISSUE [#1](https://github.com/flyingsonu122/JSON/issues/1)]** : **[Add More Diwali Wishes](https://github.com/flyingsonu122/JSON/issues/1)** (Recommended for beginners)
+**[ISSUE [#1](https://github.com/flyingsonu122/JSON/issues/1)]** : **[Add More Diwali Wishes](https://github.com/flyingsonu122/JSON/issues/1)** (Recommended )
 
 ## License
 
