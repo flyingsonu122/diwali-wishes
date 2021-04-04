@@ -6,9 +6,12 @@
 ## Download as a [Desktop App](https://drive.google.com/file/d/1sWmCKRoPd1cImhA5F_WrfiIm_CjaqkaU/view?usp=sharing)
 
 
-##### Live Demo  [here](https://flyingsonu122.github.io/Diwali-Wishes/) 
 
 ![Diwali Wishes](./images/DiwaliWishes.png)
+
+<br/>
+
+##### Live Demo  [here](https://flyingsonu122.github.io/Diwali-Wishes/) 
 
 ## Want to contribute?
 
