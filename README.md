@@ -1,8 +1,12 @@
 # Diwali-Wishes
 
+
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/Diwali-Wishes.svg?logo=github&style=social)](https://github.com/flyingsonu122)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/Diwali-Wishes.svg?logo=git&style=social)](https://github.com/flyingsonu122/Diwali-Wishes)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=github&style=social)](https://github.com/flyingsonu122/Diwali-Wishes) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/Diwali-Wishes.svg?logo=github&style=social)](https://github.com/flyingsonu122/Diwali-Wishes/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/Diwali-Wishes.svg?logo=github&style=social)](https://github.com/flyingsonu122/Diwali-Wishes/pulls)
 
-### Live Demo on [https://flyingsonu122.github.io/Diwali-Wishes/](https://flyingsonu122.github.io/Diwali-Wishes/) 
+## Download as a [Desktop App](https://drive.google.com/file/d/1sWmCKRoPd1cImhA5F_WrfiIm_CjaqkaU/view?usp=sharing)
+
+
+##### Live Demo  [here](https://flyingsonu122.github.io/Diwali-Wishes/) 
 
 ![Diwali Wishes](./images/DiwaliWishes.png)
 
