@@ -1,9 +1,9 @@
-# Diwali-Wishes
+# Diwali Wishes
 
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/flyingsonu122/Diwali-Wishes.svg?logo=github&style=social)](https://github.com/flyingsonu122)  [![GitHub last commit](https://img.shields.io/github/last-commit/flyingsonu122/Diwali-Wishes.svg?logo=git&style=social)](https://github.com/flyingsonu122/Diwali-Wishes)  [![Maintenance](https://img.shields.io/maintenance/yes/2021.svg?logo=github&style=social)](https://github.com/flyingsonu122/Diwali-Wishes) [![GitHub issues](https://img.shields.io/github/issues/flyingsonu122/Diwali-Wishes.svg?logo=github&style=social)](https://github.com/flyingsonu122/Diwali-Wishes/issues) [![GitHub pulls](https://img.shields.io/github/issues-pr/flyingsonu122/Diwali-Wishes.svg?logo=github&style=social)](https://github.com/flyingsonu122/Diwali-Wishes/pulls)
 
-## Download as a [Desktop App](https://drive.google.com/file/d/1sWmCKRoPd1cImhA5F_WrfiIm_CjaqkaU/view?usp=sharing)
+
+## Download as a [Android App](https://drive.google.com/file/d/1sWmCKRoPd1cImhA5F_WrfiIm_CjaqkaU/view?usp=sharing)
 
 
 
@@ -11,7 +11,7 @@
 
 <br/>
 
-##### Live Demo  [here](https://flyingsonu122.github.io/Diwali-Wishes/) 
+##### Live Demo  [here](https://flyingsonu122.github.io/diwali-wishes/) 
 
 ## Want to contribute?
 
@@ -24,9 +24,9 @@
 ## License
 
 
-[![GitHub license](https://img.shields.io/github/license/flyingsonu122/Diwali-Wishes.svg?style=social&logo=github)](https://github.com/flyingsonu122/Diwali-Wishes/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/sonukumarkush12.svg?style=social)](https://twitter.com/sonukumarkush12) [![GitHub followers](https://img.shields.io/github/followers/flyingsonu122.svg?label=Follow&style=social)](https://github.com/flyingsonu122/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sonukumarkush12.svg?style=social)](https://twitter.com/sonukumarkush12) [![GitHub followers](https://img.shields.io/github/followers/flyingsonu122.svg?label=Follow&style=social)](https://github.com/flyingsonu122/)
 
-**MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122/Diwali-Wishes/blob/master/LICENSE)**
+**MIT &copy; [Sonu kumar kushwaha]()**
 
 ## Thanks!
 
