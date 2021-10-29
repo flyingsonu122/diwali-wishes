@@ -7,7 +7,7 @@ btn.addEventListener('click',getWish);
 getWish();
 
 function getWish(){
-    fetch("https://www.sonu.live/diwali-wishes/db.json")
+    fetch("https://www.sonu.live/JSON/db.json")
   .then(function(response) {
     return response.json();
   })
