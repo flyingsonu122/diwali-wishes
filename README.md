@@ -3,7 +3,7 @@
 
 
 
-## Download as a [Android App](https://github.com/flyingsonu122/resources/releases/download/v1.0/Diwali-Wishes.apk)
+## Download as [Android App](https://github.com/flyingsonu122/resources/releases/download/v1.0/Diwali-Wishes.apk)
 
 
 
