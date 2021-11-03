@@ -4,154 +4,400 @@
 */
 
 body {
-  font-family: "Montserrat", sans-serif;
-  color: #404142;
-  font-size: 16px;
-  letter-spacing: 0.2px;
-  background-color: orange;
-  background-image: url("./images/sparkler.jpg");
-  /* background-repeat: no-repeat; */
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
+    font-family: "Montserrat", sans-serif;
+    color: #404142;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    background-color: orange;
+    background-image: url("./images/sparkler.jpg");
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
+
 h2 {
     font-weight: 800;
-  font-family: "Roboto", sans-serif;
-  text-transform: capitalize;
-  letter-spacing: -0.1px;
-  opacity: 0.7;
-  color: white;
+    font-family: "Roboto", sans-serif;
+    text-transform: capitalize;
+    letter-spacing: -0.1px;
+    opacity: 0.7;
+    color: white;
 }
+
 h1,
 h3,
 h4,
 h5,
 h6 {
-  font-weight: 800;
-  font-family: "Roboto", sans-serif;
-  text-transform: capitalize;
-  letter-spacing: -0.1px;
-  opacity: 0.7;
+    font-weight: 800;
+    font-family: "Roboto", sans-serif;
+    text-transform: capitalize;
+    letter-spacing: -0.1px;
+    opacity: 0.7;
 }
+
 .main .wish-text {
-  width: 70%;
-  -webkit-transition: all 0.3s;
-  -moz-transition: all 0.3s;
-  transition: all 0.3s;
-  margin-right: 20px;
-  border: 3px solid #f6f6f6;
-  border-radius: 5px;
-  background-color: white;
+    width: 70%;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    margin-right: 20px;
+    border: 3px solid #f6f6f6;
+    border-radius: 5px;
+    background-color: white;
 }
+
 .main .wish-text:hover {
-  box-shadow: 3px 3px 10px #ccc;
-  transform: translateY(-10px);
+    box-shadow: 3px 3px 10px #ccc;
+    transform: translateY(-10px);
 }
 
 .wish-text {
-  padding: 20px;
-  margin-top: 20px;
+    padding: 20px;
+    margin-top: 20px;
 }
 
 .btn {
-  text-transform: capitalize;
-  font-weight: 600;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  transition: all 0.6s;
+    text-transform: capitalize;
+    font-weight: 600;
+    -webkit-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    transition: all 0.6s;
 }
+
 .btn-lg {
-  padding: 5px 10px;
-  font-size: 16px;
-  line-height: none;
-  border-radius: 4px;
+    padding: 5px 10px;
+    font-size: 16px;
+    line-height: none;
+    border-radius: 4px;
 }
 
 .btn-yellow {
-  background-color: #fcd93b;
-  color: #2a2a2a;
-  opacity: 0.8;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  transition: all 0.6s;
+    background-color: #fcd93b;
+    color: #2a2a2a;
+    opacity: 0.8;
+    -webkit-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    transition: all 0.6s;
 }
+
 .btn-yellow:hover {
-  opacity: 0.9;
-  text-transform: uppercase;
-  cursor: pointer;
+    opacity: 0.9;
+    text-transform: uppercase;
+    cursor: pointer;
 }
 
 .btn-red {
-  background-color: rgb(251, 155, 79);
-  color: #fff;
-  opacity: 0.8;
-  -webkit-transition: all 0.6s;
-  -moz-transition: all 0.6s;
-  transition: all 0.6s;
+    background-color: rgb(162, 79, 201);
+    color: #fff;
+    opacity: 0.8;
+    -webkit-transition: all 0.6s;
+    -moz-transition: all 0.6s;
+    transition: all 0.6s;
 }
+
 .btn-red:hover {
-  opacity: 0.9;
-  text-transform: uppercase;
-  cursor: pointer;
+    opacity: 0.9;
+    text-transform: uppercase;
+    cursor: pointer;
 }
 
 .github-logo1 {
-  font-size: 1em;
-  color: white;
-  font-weight: 800;
-  padding: 0px;
-  margin: 0px;
+    font-size: 1em;
+    color: white;
+    font-weight: 800;
+    padding: 0px;
+    margin: 0px;
 }
 
 .github-logo1 .lookbook {
-  color: white;
+    color: white;
 }
 
-
-
 #copyright a {
-  color: #b124b6;
+    color: #b124b6;
 }
 
 #copyright a:hover {
-  color: #c7b03191;
+    color: #c7b03191;
 }
 
 #copyright .fa-heart {
-  padding: 0px;
-  margin: 0px;
-  font-size: 1em;
-  font-weight: normal;
-  bottom: auto;
+    padding: 0px;
+    margin: 0px;
+    font-size: 1em;
+    font-weight: normal;
+    bottom: auto;
 }
+
 
 /* 
  ===Custom Media Queries===
  */
 
+
 /* Mobile */
 
 @media (max-width: 320px) {
-  .main .wish-text {
-    width: 100%;
-  }
+    .main .wish-text {
+        width: 100%;
+    }
 }
+
 
 /* iPad Portrait */
 
 @media (min-width: 768px) and (max-width: 991px) {
-  .main .wish-text {
-    width: 49%;
-    margin-right: 7px;
-  }
+    .main .wish-text {
+        width: 49%;
+        margin-right: 7px;
+    }
 }
+
 
 /* iPad Landscape */
 
 @media (min-width: 992px) and (max-width: 1199px) {
-  .main .wish-text {
-    width: 49%;
-    margin-right: 9px;
-  }
+    .main .wish-text {
+        width: 49%;
+        margin-right: 9px;
+    }
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 140px;
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 150%;
+    left: 50%;
+    margin-left: -75px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #555 transparent transparent transparent;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+}
+
+.resp-sharing-button__link,
+.resp-sharing-button__icon {
+    display: inline-block
+}
+
+.resp-sharing-button__link {
+    text-decoration: none;
+    color: #fff;
+    margin: 0.5em
+}
+
+.resp-sharing-button {
+    border-radius: 5px;
+    transition: 25ms ease-out;
+    padding: 0.5em 0.75em;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif
+}
+
+.resp-sharing-button__icon svg {
+    width: 1em;
+    height: 1em;
+    margin-right: 0.4em;
+    vertical-align: top
+}
+
+.resp-sharing-button--small svg {
+    margin: 0;
+    vertical-align: middle
+}
+
+
+/* Non solid icons get a stroke */
+
+.resp-sharing-button__icon {
+    stroke: #fff;
+    fill: none
+}
+
+
+/* Solid icons get a fill */
+
+.resp-sharing-button__icon--solid,
+.resp-sharing-button__icon--solidcircle {
+    fill: #fff;
+    stroke: none
+}
+
+.resp-sharing-button--twitter {
+    background-color: #55acee
+}
+
+.resp-sharing-button--twitter:hover {
+    background-color: #2795e9
+}
+
+.resp-sharing-button--pinterest {
+    background-color: #bd081c
+}
+
+.resp-sharing-button--pinterest:hover {
+    background-color: #8c0615
+}
+
+.resp-sharing-button--facebook {
+    background-color: #3b5998
+}
+
+.resp-sharing-button--facebook:hover {
+    background-color: #2d4373
+}
+
+.resp-sharing-button--tumblr {
+    background-color: #35465C
+}
+
+.resp-sharing-button--tumblr:hover {
+    background-color: #222d3c
+}
+
+.resp-sharing-button--reddit {
+    background-color: #5f99cf
+}
+
+.resp-sharing-button--reddit:hover {
+    background-color: #3a80c1
+}
+
+.resp-sharing-button--google {
+    background-color: #dd4b39
+}
+
+.resp-sharing-button--google:hover {
+    background-color: #c23321
+}
+
+.resp-sharing-button--linkedin {
+    background-color: #0077b5
+}
+
+.resp-sharing-button--linkedin:hover {
+    background-color: #046293
+}
+
+.resp-sharing-button--email {
+    background-color: #777
+}
+
+.resp-sharing-button--email:hover {
+    background-color: #5e5e5e
+}
+
+.resp-sharing-button--xing {
+    background-color: #1a7576
+}
+
+.resp-sharing-button--xing:hover {
+    background-color: #114c4c
+}
+
+.resp-sharing-button--whatsapp {
+    background-color: #25D366
+}
+
+.resp-sharing-button--whatsapp:hover {
+    background-color: #1da851
+}
+
+.resp-sharing-button--hackernews {
+    background-color: #FF6600
+}
+
+.resp-sharing-button--hackernews:hover,
+.resp-sharing-button--hackernews:focus {
+    background-color: #FB6200
+}
+
+.resp-sharing-button--vk {
+    background-color: #507299
+}
+
+.resp-sharing-button--vk:hover {
+    background-color: #43648c
+}
+
+.resp-sharing-button--facebook {
+    background-color: #3b5998;
+    border-color: #3b5998;
+}
+
+.resp-sharing-button--facebook:hover,
+.resp-sharing-button--facebook:active {
+    background-color: #2d4373;
+    border-color: #2d4373;
+}
+
+.resp-sharing-button--twitter {
+    background-color: #55acee;
+    border-color: #55acee;
+}
+
+.resp-sharing-button--twitter:hover,
+.resp-sharing-button--twitter:active {
+    background-color: #2795e9;
+    border-color: #2795e9;
+}
+
+.resp-sharing-button--email {
+    background-color: #777777;
+    border-color: #777777;
+}
+
+.resp-sharing-button--email:hover,
+.resp-sharing-button--email:active {
+    background-color: #5e5e5e;
+    border-color: #5e5e5e;
+}
+
+.resp-sharing-button--pinterest {
+    background-color: #bd081c;
+    border-color: #bd081c;
+}
+
+.resp-sharing-button--pinterest:hover,
+.resp-sharing-button--pinterest:active {
+    background-color: #8c0615;
+    border-color: #8c0615;
+}
+
+.resp-sharing-button--whatsapp {
+    background-color: #25D366;
+    border-color: #25D366;
+}
+
+.resp-sharing-button--whatsapp:hover,
+.resp-sharing-button--whatsapp:active {
+    background-color: #1DA851;
+    border-color: #1DA851;
 }
