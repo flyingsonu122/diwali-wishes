@@ -27,7 +27,7 @@ function getWish() {
 
             twt.href = `https://twitter.com/intent/tweet?text=${wish}`;
             fb.href = `https://facebook.com/sharer/sharer.php?u=https://www.sonu.live/diwali-wishes/`;
-            mail.href = `mailto:?subject=Happy%20Diwali. &amp ;body=${wish}`;
+            mail.href = `mailto:?subject=Happy%20Diwali&body=${wish}`;
             whatsapp.href = `https://api.whatsapp.com/send/?text=${wish}`;
 
 
