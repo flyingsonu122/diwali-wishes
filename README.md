@@ -6,8 +6,7 @@
 ## Download as [Android App](https://github.com/flyingsonu122/resources/releases/download/v1.0/Diwali-Wishes.apk)
 
 
-
-![Diwali Wishes](./images/DiwaliWishes.png)
+![Diwali Wishes](https://user-images.githubusercontent.com/51280276/147372203-0709154d-3c82-461a-af83-0883e71d2517.png)
 
 <br/>
 
