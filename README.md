@@ -20,10 +20,10 @@
 
 **[ISSUE [#1](https://github.com/flyingsonu122/JSON/issues/1)]** : **[Add More Diwali Wishes](https://github.com/flyingsonu122/JSON/issues/1)** (Recommended )
 
-## License
+## Contributors
+![contributors](https://contrib.rocks/image?repo=flyingsonu122/diwali-wishes)
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sonukumarkush12.svg?style=social)](https://twitter.com/sonukumarkush12) [![GitHub followers](https://img.shields.io/github/followers/flyingsonu122.svg?label=Follow&style=social)](https://github.com/flyingsonu122/)
 
 **MIT &copy; [Sonu kumar kushwaha]()**
 
