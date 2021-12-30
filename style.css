@@ -127,6 +127,10 @@ footer {
     font-size: 14px;
 }
 
+footer i{
+    color: red;
+}
+
 footer a{
     color: yellow;
     text-decoration: none;
