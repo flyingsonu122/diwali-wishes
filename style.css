@@ -1,7 +1,19 @@
 /*
-* Author - Sonu kumar kushwaha
-* Email - flyingsonu736@gmail.com
+  Author : Sonu kumar kushwaha
+  Gmail  : flyingsonu736@gmail.com
+  GitHub : https://github.com/flyingsonu122
+
+
 */
+
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Montserrat Regular"), local("Montserrat-Regular"),
+      url(https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf)
+        format("truetype");
+}
 
 body {
     margin: 0;
