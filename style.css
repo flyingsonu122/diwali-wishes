@@ -145,7 +145,7 @@ footer a:hover{
 
 @media (max-width: 320px) {
     .main .wish-text {
-        width: 100%;
+        width: 300px;
     }
 }
 
