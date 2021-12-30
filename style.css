@@ -1,28 +1,13 @@
 /*
-  Author : Sonu kumar kushwaha
-  Gmail  : flyingsonu736@gmail.com
-  GitHub : https://github.com/flyingsonu122
-
-
+* Author - Sonu kumar kushwaha
+* Email - flyingsonu736@gmail.com
 */
 
-@font-face {
-    font-family: "Montserrat";
-    font-style: normal;
-    font-weight: 400;
-    src: local("Montserrat Regular"), local("Montserrat-Regular"),
-      url(https://fonts.gstatic.com/s/montserrat/v14/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf)
-        format("truetype");
-}
-
 body {
-    margin: 0;
-    padding: 0;
-    letter-spacing: 0.8px;
-    text-align: center;
     font-family: "Montserrat", sans-serif;
     color: #404142;
     font-size: 16px;
+    letter-spacing: 0.2px;
     background-color: orange;
     background-image: url("./images/sparkler.jpg");
     /* background-repeat: no-repeat; */
@@ -30,15 +15,6 @@ body {
     background-position: center;
     background-attachment: fixed;
 }
-
-.main {
-    text-align: center;
-    height: auto;
-    min-height: 65vh;
-    width: 100%;
-    background-color: #ccb3ff;
-}
-  
 
 h2 {
     font-weight: 800;
@@ -127,40 +103,39 @@ h6 {
     cursor: pointer;
 }
 
-footer {
+.github-logo1 {
+    font-size: 1em;
     color: white;
-    height: 40px;
-    text-align: center;
-    position: relative;
+    font-weight: 800;
+    padding: 0px;
+    margin: 0px;
 }
 
-footer p{
-    padding: 10px;
-    position: absolute;
-    bottom: 10px;
-    font-size: 24px;
-    text-align: center;
+.github-logo1 .lookbook {
+    color: white;
 }
 
-#heart{
-    color: red;
+#copyright a {
+    color: #FFD700;
 }
 
-footer a{
-    color: yellow;
-    text-decoration: none;
+#copyright a:hover {
+    color: #c7b03191;
 }
 
-footer a:hover{
-    color: rgb(8, 33, 41);
-    text-decoration: underline;
+#copyright .fa-heart {
+    padding: 0px;
+    margin: 0px;
+    font-size: 1em;
+    font-weight: normal;
+    bottom: auto;
 }
 
 /* Mobile */
 
 @media (max-width: 320px) {
     .main .wish-text {
-        width: 280px;
+        width: 100%;
     }
 }
 
