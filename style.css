@@ -4,10 +4,13 @@
 */
 
 body {
+    margin: 0;
+    padding: 0;
+    letter-spacing: 0.8px;
+    text-align: center;
     font-family: "Montserrat", sans-serif;
     color: #404142;
     font-size: 16px;
-    letter-spacing: 0.2px;
     background-color: orange;
     background-image: url("./images/sparkler.jpg");
     /* background-repeat: no-repeat; */
