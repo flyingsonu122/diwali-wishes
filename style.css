@@ -123,11 +123,12 @@ footer {
     height: 40px;
     text-align: center;
     padding: 10px;
-    top: 0;
-    font-size: 14px;
+    position: absolute;
+    bottom: 0;
+    font-size: 24px;
 }
 
-footer i{
+footer p{
     color: red;
 }
 

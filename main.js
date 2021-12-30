@@ -11,10 +11,10 @@ getWish();
 
 function getWish() {
     fetch("https://www.sonu.live/JSON/db.json")
-        .then(function(response) {
+        .then(function (response) {
             return response.json();
         })
-        .then(function(data) {
+        .then(function (data) {
             // console.log(data);
             let index = Math.floor(Math.random() * data.length);
             // console.log(index);
