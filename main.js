@@ -10,7 +10,7 @@ btn.addEventListener('click', getWish);
 getWish();
 
 function getWish() {
-    fetch("https://www.sonu.live/JSON/db.json")
+    fetch("https://sonukushwaha.me/JSON/db.json")
         .then(function (response) {
             return response.json();
         })
