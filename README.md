@@ -2,10 +2,6 @@
 
 
 
-
-## Download as [Android App](https://github.com/flyingsonu122/resources/releases/download/v1.0/Diwali-Wishes.apk)
-
-
 ![Diwali Wishes](https://user-images.githubusercontent.com/51280276/147372203-0709154d-3c82-461a-af83-0883e71d2517.png)
 
 <br/>
@@ -16,9 +12,6 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/flyingsonu122) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/flyingsonu122/Diwali-Wishes/pulls)
 
-> Please check issues **[here](https://github.com/flyingsonu122/JSON/issues)**!
-
-**[ISSUE [#1](https://github.com/flyingsonu122/JSON/issues/1)]** : **[Add More Diwali Wishes](https://github.com/flyingsonu122/JSON/issues/1)** (Recommended )
 
 ## Contributors
 ![contributors](https://contrib.rocks/image?repo=flyingsonu122/diwali-wishes)
@@ -43,7 +36,7 @@ Thank you for being here! You can find my other project **[here](https://github.
 	<a href="https://www.instagram.com/flyingsonu736/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
 	<a href="https://medium.com/@sonukumarkushwaha"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=medium" alt="Medium"></a>
 	<a href="https://www.youtube.com/channel/UCugIYeIc-HzCp-SZxRwuQbA"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=YouTube" alt="YouTube"></a>
-	<a href="https://twitter.com/sonukumarkush12"><img src="https://img.shields.io/twitter/follow/sonukumarkush12?label=Follow&style=social" alt="Twitter"></a>
+	<a href="https://twitter.com/iamsonukushwaha"><img src="https://img.shields.io/twitter/follow/sonukumarkush12?label=Follow&style=social" alt="Twitter"></a>
 	
 	
 </p>
