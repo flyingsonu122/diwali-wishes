@@ -10,7 +10,7 @@ btn.addEventListener('click', getWish);
 getWish();
 
 function getWish() {
-    fetch("https://flyingsonu122.github.io/diwali-wishes/JSON/db.json")
+    fetch("https://flyingsonu122.github.io/diwali-wishes/db.json")
         .then(function (response) {
             return response.json();
         })
