@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Diwali</title>
+    </head>
+
+    <body>
+
+        <script>
+
+
+            getWish();
+
+            function getWish() {
+                fetch("https://flyingsonu122.github.io/diwali-wishes/db.json")
+                    .then(function (response) {
+                        return response.json();
+                    })
+                    .then(function (data) {
+                        data.forEach(wish => {
+                            
+                            let p = document.createElement('p');
+                            p.innerHTML = `<h1>${wish.wish} <br><br></h1>`;
+    
+                            document.body.appendChild(p);
+                            
+                        });
+
+
+
+
+
+                    });
+            }
+
+        </script>
+    </body>
+
+</html>
