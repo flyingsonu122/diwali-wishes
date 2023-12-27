@@ -10,7 +10,7 @@ btn.addEventListener('click', getWish);
 getWish();
 
 function getWish() {
-    fetch("https://flyingsonu122.github.io/diwali-wishes/db.json")
+    fetch("https://iamsonukushwaha.github.io/diwali-wishes/db.json")
         .then(function (response) {
             return response.json();
         })
@@ -26,7 +26,7 @@ function getWish() {
             // links
 
             twt.href = `https://twitter.com/intent/tweet?text=${wish}`;
-            fb.href = `https://facebook.com/sharer/sharer.php?u=https://www.sonu.live/diwali-wishes/`;
+            fb.href = `https://facebook.com/sharer/sharer.php?u=https://singlebucks.blogspot.com/diwali-wishes/`;
             mail.href = `mailto:?subject=Happy%20Diwali&body=${wish}`;
             whatsapp.href = `https://api.whatsapp.com/send/?text=${wish}`;
 
