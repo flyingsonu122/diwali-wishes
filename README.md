@@ -4,7 +4,7 @@
 
 <br/>
 
-##### See Live Demo  [flyingsonu122.github.io/diwali-wishes](https://flyingsonu122.github.io/diwali-wishes/) 
+##### See Live Demo  [iamsonukushwaha.github.io/diwali-wishes](https://iamsonukushwaha.github.io/diwali-wishes/) 
 
 <br><br>
 
